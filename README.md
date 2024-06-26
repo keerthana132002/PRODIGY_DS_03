@@ -11,6 +11,7 @@ Model with Gini Index Criterion:
 Training set accuracy: 0.7865
 Test set accuracy: 0.8021
 The training and test set accuracies are quite comparable, indicating no signs of overfitting.
+
 Model with Entropy Criterion:
 
 Training set accuracy: 0.7865
